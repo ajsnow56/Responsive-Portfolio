@@ -1,0 +1,35 @@
+.AJ{
+    font: bolder;
+    font columns: #666666;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(105, 180, 155);
+}
+.head{ 
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(105, 180, 155);
+    style: Bold;
+    margin-top: 50px;
+}
+.port{
+    margin:15px
+}
+.about{
+
+}
+.row{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: -15px;
+    
+}
+.portfolio{
+
+}
+.submit{
+    border size: 0px;
+    border color: white;
+    background-color: rgb(105, 180, 155);
+    color: white;
+    padding: 10px;
+}
